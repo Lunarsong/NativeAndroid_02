@@ -27,3 +27,9 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# Folders
+
+# C++ Library files
+*.so
+*.a
